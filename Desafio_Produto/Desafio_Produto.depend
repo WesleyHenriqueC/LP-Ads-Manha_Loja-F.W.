@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1654101647 source:c:\users\wesley\desktop\faculdade\programaçao\2021\desafio_produto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desafio.h"
+
+1654114703 c:\users\wesley\desktop\faculdade\programaçao\2021\desafio_produto\desafio.h
+
+1654114671 source:c:\users\wesley\desktop\faculdade\programaçao\2021\desafio_produto\desafio.c
+	<stdio.h>
+	<stdlib.h>
+	"desafio.h"
+
+1654296054 source:c:\users\wesley\desktop\desafio_produto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desafio.h"
+
+1654450942 c:\users\wesley\desktop\desafio_produto\desafio.h
+
+1654453422 source:c:\users\wesley\desktop\desafio_produto\desafio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"desafio.h"
+
+1654453255 source:c:\users\frank\onedrive\Área de trabalho\fatec coisas\2° semestre\linguagem de programação\desafio_produto (1)\desafio_produto\desafio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"desafio.h"
+
+1654450942 c:\users\frank\onedrive\Área de trabalho\fatec coisas\2° semestre\linguagem de programação\desafio_produto (1)\desafio_produto\desafio.h
+
+1654296054 source:c:\users\frank\onedrive\Área de trabalho\fatec coisas\2° semestre\linguagem de programação\desafio_produto (1)\desafio_produto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desafio.h"
+

@@ -1,0 +1,3 @@
+				    1 MaquinaDeLavar_Consul	1899 
+				    2 MaquinaDeLavar_Brastemp	2099	
+				    3 MaquinaDeLavar_Electrolux	1899
